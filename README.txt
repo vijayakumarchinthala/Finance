@@ -1,4 +1,7 @@
 # Finance
+
+School Name: GVK Chinmaya Vidyalaya,Indhukurpeta
+
 CBSE Class 12 Python Project done by  * T.BudhaPrabhas
                                       * D.Vijayakrishna
                                       * N.Someswar
